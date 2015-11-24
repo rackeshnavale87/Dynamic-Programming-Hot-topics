@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class knapsack 
+public class Knapsack_DP
 {
 	static int S = 5;
 	static int[] s_wt = {4,2,3};
