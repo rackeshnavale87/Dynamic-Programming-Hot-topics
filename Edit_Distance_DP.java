@@ -1,6 +1,6 @@
 package pkg;
 
-public class EditDistance 
+public class Edit_Distance_DP 
 {
 
 	public static void main(String[] args) 
