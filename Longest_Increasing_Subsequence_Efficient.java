@@ -1,6 +1,6 @@
 package pkg;
 
-public class Longest_increasing_subsequence_Efficient 
+public class Longest_Increasing_Subsequence_Efficient 
 {
 	
     public static void main(String[] args)
