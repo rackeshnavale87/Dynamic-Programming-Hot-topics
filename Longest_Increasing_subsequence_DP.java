@@ -1,6 +1,6 @@
 package pkg;
 
-public class LIS_DP 
+public class Longest_Increasing_subsequence_DP
 {
 
 	public static void main(String[] args) 
