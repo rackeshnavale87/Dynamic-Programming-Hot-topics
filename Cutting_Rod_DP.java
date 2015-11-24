@@ -1,6 +1,6 @@
 package pkg;
 
-public class CutRod 
+public class Cutting_Rod_DP 
 {
 	static int cutcost = 5;
 	public static void main(String[] args) 
