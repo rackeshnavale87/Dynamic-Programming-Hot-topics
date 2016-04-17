@@ -2,10 +2,11 @@
 
 <b>Dynamic programming hot and latest problems</b>
 
-- Cutting rod
-- Longgest Common Subsequence
-- Longest Common Paliandrom
-- Longest Increasing SubSequence
 - Knapsack
-- Edit Distance / DNA matching
 - Fibonacii
+- Cutting rod
+- Longest Common Paliandrom
+- Edit Distance/DNA matching
+- Longgest Common Subsequence
+- Longest Increasing SubSequence
+
