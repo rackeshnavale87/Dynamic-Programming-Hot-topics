@@ -12,7 +12,7 @@ public class Cutting_Rod_DP
 
 
 		int ans = cut(price, lengths);
-		//System.out.println(ans);
+		System.out.println(ans);
 
 		int[] solutions = new int[lengths.length+1];
 		int[] sol = cutALL(price, lengths, solutions);
